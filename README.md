@@ -1,7 +1,7 @@
 # Digital-Media-Correlation-on-Stock-Market-Prices
 This project studies how well online forum posts (Reddit) correlate or potentially predict stock market changes, specifically among S&amp;P 500 Top 50 companies, which serve as a benchmark for the overall health of the stock market.
 
-#Objective
+# Objective
 Primary Objective: 
 To evaluate how well sentiment and discussion trends from Reddit can correlate and potentially predict short-term stock market movements in S&P 500 companies. 
 Specific Goals: 
@@ -13,5 +13,5 @@ Research Question:
 How do Reddit posts about individual company stock correlate with company stock price up/down movements?
 
 # Data Source Links: 
-Reddit data: https://data.mendeley.com/datasets/b6ns6d8xv3/3
-Stock data: https://www.kaggle.com/code/aniketmahajan1104/reddit-stock-data-eda
+### Reddit data: https://data.mendeley.com/datasets/b6ns6d8xv3/3
+### Stock data: https://www.kaggle.com/code/aniketmahajan1104/reddit-stock-data-eda
