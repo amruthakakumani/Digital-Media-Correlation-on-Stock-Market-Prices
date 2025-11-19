@@ -15,3 +15,10 @@ How do Reddit posts about individual company stock correlate with company stock 
 # Data Source Links: 
 ### Reddit data: https://data.mendeley.com/datasets/b6ns6d8xv3/3
 ### Stock data: https://www.kaggle.com/code/aniketmahajan1104/reddit-stock-data-eda
+
+
+# Team Members:
+Pierre Etienne
+Amrutha Kakumani 
+Hannah Nguyen
+
