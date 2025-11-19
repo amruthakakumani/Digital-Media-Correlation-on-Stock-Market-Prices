@@ -18,7 +18,7 @@ How do Reddit posts about individual company stock correlate with company stock 
 
 
 # Team Members:
-Pierre Etienne
-Amrutha Kakumani 
-Hannah Nguyen
+### Pierre Etienne
+### Amrutha Kakumani 
+### Hannah Nguyen
 
